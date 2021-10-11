@@ -37,7 +37,7 @@ How to configured Eureka Server for Eureka service discovery.
 
 #### Config Server
 ```bash
-How to configured Configuration Server to access refreshed properties.
+How to Configured this Server to access refreshed properties.
 ```
 
 #### Two Factor Authentication - SignIn/SignUp
@@ -48,6 +48,12 @@ It's generate cache otp for verfication/validation or enable Two Factor Authenti
 #### Database Level Encryption/Decryption 
 ```bash
 How to configured Database level Encryption/Decryption to secure the details inside table.
+```
+
+#### Service Name
+```bash
+1. Auth Service/Server
+2. Role Service
 ```
 
 ## Contributors
