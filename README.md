@@ -7,7 +7,7 @@ How to write the code and structed according to best practices standards and als
 ## SpringBoot + SpringCloud + Postgres/MySQL = [Microservice Architecture](https://github.com/Only1Ryu/springboot-microservice-architecture-bootstrap-pure)
 
 <p align="center">
-<img width="800px"  src="https://github.com/Only1Ryu/StudentRecord/blob/master/Untitledn.png">
+<img src="https://github.com/Only1Ryu/springboot-microservice-architecture-bootstrap-pure/blob/master/spring-microservices-security-arch.png">
 </p>
 
 ## Installation
@@ -55,6 +55,14 @@ How to configured Database level Encryption/Decryption to secure the details ins
 1. Auth Service/Server
 2. Role Service
 ```
+
+## Detailed Architecture
+
+
+<p align="center">
+<img src="https://github.com/Only1Ryu/springboot-microservice-architecture-bootstrap-pure/blob/master/spring-microservices-detailed-security-arch.jpg">
+</p>
+
 
 ## Contributors
 
